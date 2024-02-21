@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuotesAppU2</string>
+    <string name="quotes1">You have to believe in yourself when no one else does.</string>
+    <string name="quotes2">When you have a dream, you’ve got to grab it and never let go.</string>
+    <string name="quotes3">The most important thing is to enjoy your life—to be happy—it’s all that matters.</string>
+    <string name="quotes4">Spread love everywhere you go. Let no one ever come without leaving happier.</string>
+    <string name="quotes5">Be yourself; everyone else is already taken.</string>
+    <string name="quotes6">The biggest adventure you can take is to live the life of your dreams.</string>
+    <string name="quotes7">The only thing we have to fear is fear itself.</string>
+    <string name="quotes8">I can accept failure, everyone fails at something. But I can’t accept not trying.</string>
+    <string name="quotes9">The more you know who you are, and what you want, the less you let things upset you.</string>
+    <string name="quotes10">Do one thing every day that scares you.</string>
+    <string name="author1">Serena Williams</string>
+    <string name="author2">Carol Burnett</string>
+    <string name="author3">Steve Jobs</string>
+    <string name="author4">Mother Teresa</string>
+    <string name="author5">Oscar Wilde</string>
+    <string name="author6">Oprah Winfrey</string>
+    <string name="author7">Franklin D. Roosevelt</string>
+    <string name="author8">Michael Jordan</string>
+    <string name="author9">Stephanie Perkins</string>
+    <string name="author10">Eleanor Roosevelt</string>
+</resources>
